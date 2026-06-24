@@ -1,9 +1,9 @@
 cask "senda" do
-  version "0.1.2"
+  version "0.1.3"
 
   depends_on arch: :arm64
-  url "https://github.com/this-senda/senda/releases/download/v0.1.2/senda_0.1.2_darwin-arm64.tar.gz"
-  sha256 "d8c5e1a4c008373821cb35191e3ee3d21c304e0d070ad5d5802e59ce21292d04"
+  url "https://github.com/this-senda/senda/releases/download/v0.1.3/senda_0.1.3_darwin-arm64.tar.gz"
+  sha256 "2e96fce26e8bb9d53d8cfcc116f538ba260bd38ea1033a21403a1b0bbe79cd1b"
 
   name "Senda"
   desc "Fast, git-native API client"
